@@ -1,0 +1,24 @@
+<!Doctype HTML>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<title>BNM Currency</title>
+</head>
+<body>
+	<h1>The Currency of BNM</h1>
+	<button onClick="loadCurrencyViaJSON()">
+		Get the Currency Via JSON
+	</button>
+	<button onClick="loadCurrencyViaXML()">
+		Get the Currency VIA XML
+	</button>
+	<br><br>
+
+	<table id="currencyTable"></table>
+
+	<script src="programJSONEx.js"></script>
+	<script src="programXMLEx.js"></script>
+	<script src="modules/xmlToJson.js"></script>
+	<script src="getXMLSync.js"></script>
+</body>
+</html>
