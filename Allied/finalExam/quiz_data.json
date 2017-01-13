@@ -1,0 +1,103 @@
+let quiz_json = 
+{
+	"problems": [
+		{
+			"question": "1) The capital of Uzbekistan is ...",
+			"choices": {
+				"0": "Dusanbe",
+				"1": "Taskent",
+				"2": "Ulan Bator",
+				"3": "Australia"	
+			},
+			"answer": "Taskent"
+		},
+		{
+			"question": "2) The capital of Madagascar is ...",
+			"choices": {
+				"0": "New Delhi",
+				"1": "Beijing",
+				"2": "Antananarivo",
+				"3": "New Kenya"
+			},
+			"answer": "Antananarivo"				
+		},
+		{
+			"question": "3) The capital of Canada is ...",
+			"choices": {
+				"0": "Montreal",
+				"1": "Quebec",
+				"2": "Ottawa"	
+			},
+			"answer": "Ottawa"
+		},
+		{
+			"question": "4) Whos capital is Kabul",
+			"choices": {
+				"0": "Afganistan",
+				"1": "Turkmenistan"
+			},
+			"answer": "Afganistan"			
+		},
+		{
+			"question": "5) The capital of Algeria is ...",
+			"choices": {
+				"0": "Alger",
+				"1": "Libia",
+				"2": "Cape Town",
+				"3": "Cairo"	
+			},
+			"answer": "Alger"		
+		},
+		{
+			"question": "6) The capital of Kirgiztan is ...",
+			"choices": {
+				"0": "Biskek",
+				"1": "Bifshteks",
+				"2": "Hamburger",
+				"3": "Cheeseburger",
+				"4": "Cartoshka fry"	
+			},
+			"answer": "Biskek"		
+		},
+		{
+			"question": "7) The capital of Estonia is ...",
+			"choices": {
+				"0": "Vilnius",
+				"1": "Talinn",
+				"2": "Riga",
+				"3": "Villnius"	
+			},
+			"answer": "Talinn"		
+		},
+		{
+			"question": "8) The capital of Switzerland is ...",
+			"choices": {
+				"0": "Berna",
+				"1": "Zurich",
+				"2": "Genova",
+				"3": "Sweden"	
+			},
+			"answer": "Berna"		
+		},
+		{
+			"question": "9) The capital of Siria is ...",
+			"choices": {
+				"0": "Turkish",
+				"1": "Damasc",
+				"2": "Paris",
+				"3": "Allah Akbar"	
+			},
+			"answer": "Damasc"		
+		},
+		{
+			"question": "10) The capital of JavaScript:",
+			"choices": {
+				"0": "EcmaScript",
+				"1": "Java",
+				"2": "Allied",
+				"3": "Stupid question"	
+			},
+			"answer": "Stupid question"			
+		}
+	]
+};
